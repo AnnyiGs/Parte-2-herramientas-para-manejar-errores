@@ -1,0 +1,6 @@
+2025-08-24 16:48:12,362 - INFO - Division exitosa: 10 / 2 = 5.0
+2025-08-24 16:48:12,362 - ERROR - Error: division entre cero
+2025-08-24 16:48:12,363 - ERROR - Error: division entre cero
+2025-08-24 16:48:12,370 - INFO - Division exitosa: 7 / 2 = 3.5
+2025-08-24 16:48:12,370 - INFO - Division exitosa: 10 / 2 = 5.0
+2025-08-24 16:48:12,370 - ERROR - Error: division entre cero
