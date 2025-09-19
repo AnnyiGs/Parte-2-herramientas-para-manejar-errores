@@ -134,5 +134,5 @@ Este proyecto integra:
 Todo ello permite mejorar la **calidad, confiabilidad y mantenibilidad** del código.  
 
 ---
-👨‍💻 *Autor: OCHOA ORTEGA ANDREA JOSELYN*  
+👨‍💻 *Autor: OCHOA ORTEGA  ANDREA JOSELYN*  
 📅 *PARTE 2 DE OTRAS HERRAMIENTAS PARA MANEJAR ERRORES*
